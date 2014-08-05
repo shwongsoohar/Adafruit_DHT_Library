@@ -1,0 +1,7 @@
+{
+    "name": "Adafruit_DHT",
+    "version": "0.0.1",
+    "author": "RussGrue <rstockhammer@hotmail.com>",
+    "license": "MIT License",
+    "description": "Spark Core DHT Library based on Adafruit Arduino DHT Library"
+}
